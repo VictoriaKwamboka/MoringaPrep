@@ -6,11 +6,11 @@ I intend to exclusively write projects code as I continually improve on them gra
 
 ## No applications yet, I will update this section once i have one u.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no bugs for now.
 ## Technologies Used
 I exckusively used HTML and CSS for the project.
 ## Support and contact details
 Connect with me on LinkedIn https://www.linkedin.com/in/kwamboka-victoria-24999812b/
 ### License
-The project is open source under MIT licensing*
+The project is open source under MIT licensing.
 Copyright (c) {2022}
