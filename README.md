@@ -2,7 +2,7 @@
 #### This repository contains projects done while at Moringa School during the prep period. It is dated at 21st February 2022 at the time of writing this README.
 #### By Victoria Kwamboka(me)
 ## Description
-I intend to exclusively write projects code as I continually improve on them gradually duringt= the 5 months of prep.
+I intend to exclusively write projects code as I continually improve on them gradually during the 5 months of prep.
 
 ## No applications yet, I will update this section once i have one u.
 ## Known Bugs
